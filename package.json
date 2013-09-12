@@ -1,12 +1,12 @@
 {
-  "name": "grunt-template-otf-middleware",
+  "name": "template-otf-middleware",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gocardless-client/grunt-template-otf-middleware.git"
+    "url": "git://github.com/gocardless-client/template-otf-middleware.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless-client/grunt-template-otf-middleware/issues"
+    "url": "http://github.com/gocardless-client/template-otf-middleware/issues"
   },
   "dependencies": {
     "otf-render-middleware": "git://github.com/gocardless-client/otf-render-middleware.git",
@@ -15,5 +15,5 @@
     "lodash": "~1.3.1",
     "q": "~0.9.7"
   },
-  "main": "grunt-template-otf-middleware"
+  "main": "template-otf-middleware"
 }

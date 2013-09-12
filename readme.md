@@ -1,4 +1,4 @@
-# grunt-template-otf-middleware
+# template-otf-middleware
 
 ## Copyright and license
 
